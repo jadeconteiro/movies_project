@@ -1,2 +1,3 @@
 # movies_project
-Projeto do curso de Full Stack Developer Udacity
+
+Full Stack Developer Udacity course project: Movie Trailer Website.  
